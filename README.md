@@ -180,3 +180,7 @@ Esto mejora la precisión del modelo.
 Licencia
 
 Este proyecto es de uso educativo y puede ser modificado libremente para aprendizaje, experimentación o desarrollo de bots con inteligencia artificial.
+
+Ejemplo Gráfico:
+<img width="536" height="617" alt="image" src="https://github.com/user-attachments/assets/64ae08f2-a464-4e41-b2f5-7baa5c7fbc2b" />
+
